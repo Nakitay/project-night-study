@@ -1,4 +1,4 @@
-package com.cydeo.test.aleks;
+package com.orionsuite.team_personal.aleks;
 
 public class Test1 {
 
